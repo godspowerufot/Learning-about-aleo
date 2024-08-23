@@ -244,7 +244,7 @@ program make_voice.aleo {
    ```
 
 This workshop was a great learning experience in building more complex, state-driven applications on Aleo.
-##My deployment on aleo 
+## My deployment on aleo 
 ![Deployment Screenshot](https://i.ibb.co/2FN0SSQ/imagealeo.png)
 ---
 
